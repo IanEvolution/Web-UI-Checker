@@ -1,6 +1,7 @@
 # Playwright UI Automation
 
-This project uses [Playwright](https://playwright.dev/) to automate UI testing for a list of websites.
+This project uses [Playwright](https://playwright.dev/) to automate UI testing for a list of websites. It verifies that each site’s homepage displays a valid title and checks the core functionality of all links found on the landing page.
+If any URLs or their links fail validation, detailed results are grouped and reported under their respective domain names in the log file.
 
 ## Features
 
