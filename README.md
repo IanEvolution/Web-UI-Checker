@@ -47,3 +47,5 @@ This project uses [Playwright](https://playwright.dev/) to automate UI testing f
 ---
 
 Feel free to fork or contribute!
+
+*Created by [Ian Evolution](https://github.com/IanEvolution)*
