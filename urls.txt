@@ -1,0 +1,10 @@
+https://youtube.com
+https://playwright.dev
+https://github.com
+https://www.microsoft.com
+https://www.wikipedia.org
+https://www.nytimes.com
+https://www.reddit.com
+https://www.stackoverflow.com
+https://www.bbc.com
+https://www.cnn.com
